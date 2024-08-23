@@ -171,6 +171,8 @@ html {
     color: var(--white);
     padding: 0.6875rem 1.1875rem;
     border: 3px solid var(--foreground-tertiary);
+    align-items: end;
+    margin-left: 1.65rem;
   }
   .btn-primary:hover{
     background: var(--foreground-secondary);
